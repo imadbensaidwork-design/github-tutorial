@@ -1,0 +1,9 @@
+# vad gör .gitignore? = 
+#.gitignore är en fil där du talar om för Git vilka 
+# filer eller mappar som inte ska versionshanteras.
+
+__pycache__/
+.venv/
+*.csv
+*.txt
+
